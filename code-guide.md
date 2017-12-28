@@ -1265,11 +1265,11 @@ _blow_brick: (brick, blow, counter, callback) ->
 
 Должно выглядеть так:
 
-![img](nth_child_1.png)
+![img](img/nth_child_1.png)
 
 На ipad выглядит так:
 
-![img](nth_child_ipad_1.png)
+![img](img/nth_child_ipad_1.png)
 
 **Внимание! css-свойство на iOS Safari последнем (8.1 на момент написания) тоже не работает.**
 
@@ -1277,11 +1277,11 @@ _blow_brick: (brick, blow, counter, callback) ->
 
 Должно выглядеть так:
 
-![img](nth_child_2.png)
+![img](img/nth_child_2.png)
 
 На ipad выглядит так:
 
-![img](nth_child_ipad_2.png)
+![img](img/nth_child_ipad_2.png)
 
 ## Список литературы
 
