@@ -142,8 +142,8 @@ PR — Pull Request. В качестве ревьювера назначаем �
       ```
 - Если нет конфликтов: идём дальше.
 
-    ![Check conflicts 1](./_assets/images/check-conflicts-1.png)
+    ![Check conflicts 1](img/check-conflicts-1.png)
 
 ### 7. Мержим PR на GitHub-е
 
-![Check conflicts 1](./_assets/images/merge.png)
+![Check conflicts 1](img/merge.png)
