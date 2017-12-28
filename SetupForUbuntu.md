@@ -47,7 +47,7 @@ git config --global user.email "your_email@uchi.ru"
 ```
 13. Склонировать репозиторий:
 ```
-git clone git@github.com:uchiru-ext/content.git
+git clone git@github.com:uchiru/content-ext.git
 ```
 14. Доставить зависимости гемов:
 ```
