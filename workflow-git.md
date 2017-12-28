@@ -94,7 +94,7 @@ git pull --rebase
 
 PR — Pull Request. В качестве ревьювера назначаем ответственное по релизу лицо (тимлид или кто-то другой). Можно добавить комментарии.
 
-![PR](./_assets/images/pr.png)
+![PR](img/pr.png)
 
 ### 5. Review
 
@@ -102,17 +102,17 @@ PR — Pull Request. В качестве ревьювера назначаем �
 
 - **Changes requested**: вносим изменения и уведомляем ревьювера об окончании.
 
-    ![Approved](./_assets/images/changes-requested.png)
+    ![Approved](img/changes-requested.png)
 
 - **Approved**: идём дальше.
 
-    ![Approved](./_assets/images/approved.png)
+    ![Approved](img/approved.png)
 
 ### 6. Проверяем наличие конфликтов на GitHub-е
 
 - Если есть конфликты: исправляем их.
 
-  ![Check conflicts 0](./_assets/images/check-conflicts-0.png)
+  ![Check conflicts 0](img/check-conflicts-0.png)
 
   1. Мержим master в нашу ветку:
 
